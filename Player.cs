@@ -1,4 +1,5 @@
-﻿using System.Collections;
+$git 1.0
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
